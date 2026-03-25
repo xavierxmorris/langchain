@@ -18,7 +18,7 @@ langchain-chroma = "^0.1.2"
 beautifulsoup4 = ">=4.12.2"
 
 [tool.poetry.dependencies.unstructured]
-version = "^0.10.27"
+version = "^0.18.3"
 extras = [
     "pdf",
 ]
