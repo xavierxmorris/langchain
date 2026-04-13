@@ -24,7 +24,7 @@ langchain-cli = ">=0.0.21"
 optional = true
 
 [tool.poetry.group.test.dependencies]
-pytest = "^7.4.3"
+pytest = "^9.0.3"
 
 [tool.poetry.group.lint]
 optional = true
