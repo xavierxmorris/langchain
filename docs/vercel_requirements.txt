@@ -7,8 +7,8 @@ langchain-cohere
 langchain-astradb
 langchain-nvidia-ai-endpoints
 langchain-elasticsearch
-urllib3==1.26.19
-nbconvert==7.16.4
+urllib3==2.7.0
+nbconvert==7.17.1
 
 # temp fix, uv fails to install 3.10.7 
 orjson<=3.10.6
